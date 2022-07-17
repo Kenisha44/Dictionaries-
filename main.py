@@ -31,3 +31,5 @@ my_list = [{
 
 print(my_list[0]['a'][2])
 print(dictionary['a'][1])
+
+#this is from ztm python course
